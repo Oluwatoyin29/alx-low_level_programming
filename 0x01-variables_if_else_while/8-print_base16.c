@@ -4,11 +4,11 @@
 
 /**
  * main - Prints base 16
- * void: It is not going receive any argurment.
+ * void:  mean it is not going receive any argurment.
  *
  * Description: Prints all the hexadecimals
  *
- * Return: returns 0 
+ * Return: 0 on success
 */
 int main(void)
 {
@@ -30,3 +30,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+

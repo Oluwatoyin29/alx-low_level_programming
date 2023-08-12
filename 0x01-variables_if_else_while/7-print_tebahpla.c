@@ -4,12 +4,12 @@
 
 /**
  * main - Prints alphabet
- * void: it is not going receive any argurment.
+ * void: Empty parameters mean it is not going receive any argurment.
  *
  * Description: Prints the alphabets in reverse order
  * can only use the putchar
  *
- * Return: returns 0 
+ * Return: 0 on success
 */
 int main(void)
 {
@@ -23,3 +23,4 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
+
