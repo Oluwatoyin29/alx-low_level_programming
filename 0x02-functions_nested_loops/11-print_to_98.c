@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_to_98 - this prints all natural numbers from input to 98
- * n: starting point
+ * @n: starting point
  *
  * Return: returns void.
  */

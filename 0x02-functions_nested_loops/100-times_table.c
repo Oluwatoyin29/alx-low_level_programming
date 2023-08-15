@@ -4,7 +4,7 @@
  *
  * Description: Writes times table up to input not exceeding 15
  *
- * n: size of times table
+ * @n: size of times table
  *
  * Return: Nothing
  */

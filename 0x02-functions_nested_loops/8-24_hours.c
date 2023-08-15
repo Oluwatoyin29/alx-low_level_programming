@@ -3,7 +3,7 @@
 
 /**
  * jack_bauer - prints all the minutes of the day
- * void: first int to add
+ * @void: first int to add
  *
  **/
 

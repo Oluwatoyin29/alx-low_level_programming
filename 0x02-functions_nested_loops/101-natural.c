@@ -4,7 +4,7 @@
 /**
  * main - prints the sum of all multiples of 3 and 5 up to 1024
  *
- * void: Empty parameter
+ * @void: Empty parameter
  *
  * Description: prints the sum of all multiples of 3 and 5
  * up to but not including 1024
