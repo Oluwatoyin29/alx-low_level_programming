@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * str_checker - this function checks to see if two strings are the identical or not
+ * str_checker - this function checks if two strings are identical or not
  * @s1: string_1 base address
  * @s2: string_2 base address
  * @i: left index
